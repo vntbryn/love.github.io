@@ -1,1 +1,43 @@
+body {
+    background: linear-gradient(#cceeff, #c9fdff, #ffa7a7, #ffcbcb);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2 {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: skyblue;
+    padding: 5px;
+    margin: 10%;
+    background: skyblue;
+    text-align: center;
+    color: white;
+    font-family: "Bricolage Grotesque";
+    font-weight: 700;
+    
+}
 
+
+#essay {
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: skyblue;
+    padding: 5px;
+    margin: 10%;
+    background: skyblue;
+    text-align: center;
+    text-align: justify;
+    text-indent: 20px;
+    color: white;
+    font-family: "Bricolage Grotesque";
+    font-size: 18px;
+}    
+ 
+.heart {
+    position: relative;
+    left: 27%;
+    
+    
+}   
