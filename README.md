@@ -1,1 +1,1 @@
-I just learned html to gift my girl on our monthsary
+It's not even a day since I learned html and css to surprise my girl on our monthsary. 
