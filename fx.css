@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#cceeff, #c9fdff, #ffa7a7, #ffcbcb);
+    background: linear-gradient(#ffc2d7, #e7bbff, #c7b2ff, #c9d9ff, #e2fcff);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -9,6 +9,7 @@ h2 {
     border-width: 5px;
     border-color: skyblue;
     padding: 5px;
+    box-shadow: 0px 0px 10px #6495ED;
     margin: 10%;
     background: skyblue;
     text-align: center;
@@ -22,10 +23,11 @@ h2 {
 #essay {
     border-style: solid;
     border-radius: 10px;
-    border-width: 5px;
+    border-width: 8px;
     border-color: skyblue;
     padding: 5px;
-    margin: 10%;
+    box-shadow: 0px 0px 10px #6495ED;
+    margin: 5%;
     background: skyblue;
     text-align: center;
     text-align: justify;
@@ -34,7 +36,13 @@ h2 {
     font-family: "Bricolage Grotesque";
     font-size: 18px;
 }    
- 
+
+.heart {
+    position: relative;
+    left: 27%;
+}
+
+     
 .heart {
     position: relative;
     left: 27%;
