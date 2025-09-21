@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-h2 {
+#title {
     border-style: solid;
     border-radius: 10px;
     border-width: 5px;
@@ -42,10 +42,54 @@ h2 {
     left: 27%;
 }
 
-     
-.heart {
-    position: relative;
-    left: 27%;
-    
-    
-}   
+.popup {
+    border: 5px solid linear-gradienr(skyblue, white);
+    box-shadow: 0px 0px 10px #6495ED;
+    border-radius: 20px;
+    width: 300px;
+    height: 525px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background: linear-gradient(skyblue, white);
+    z-index: 100;
+}
+.btn {
+    padding: 15px 65px;
+    background: black;
+    color: white;
+    border: 0;
+    border-radius: 50px;
+    outline: none;
+    font-family: "Bricolage Grotesque";
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.btn1 {
+    padding: 15px 65px;
+    background: black;
+    color: white;
+    border: 0;
+    border-radius: 50px;
+    outline: none;
+    font-family: "Bricolage Grotesque";
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 70px;
+}
+.onlyimg {
+    margin-top: 20px;
+    border-radius: 100%;
+    box-shadow: 0px 0px 5px black;
+}    
+.musictext {
+    color: white;
+    font-family: "Bricolage Grotesque";
+    font-weight: 700;
+    text-shadow: 0px 0px 2px grey;
+    }
