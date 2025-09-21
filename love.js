@@ -1,1 +1,1 @@
-window.alert("Play music?")
+window.alert("Play music?");
