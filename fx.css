@@ -99,10 +99,10 @@ body {
     border-color: #E1C16E;
     background: #f5e06c;
     border-radius: 20px;
-    height: 114px;
+    height: 109px;
     width: 264px;
     padding: 12px;
-    transform: translateY(-60px);
+    transform: translateY(-65px);
     margin-left: 0.2%;
 }
 .warning h3 {
