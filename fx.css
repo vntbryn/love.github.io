@@ -99,10 +99,10 @@ body {
     border-color: #E1C16E;
     background: #f5e06c;
     border-radius: 20px;
-    height: 109px;
+    height: 114px;
     width: 264px;
     padding: 12px;
-    transform: translateY(-65px);
+    transform: translateY(-55px);
     margin-left: 0.2%;
 }
 .warning h3 {
@@ -149,62 +149,4 @@ body {
     margin-left: 3%;
     align-items: center;
     justify-content: center;
-    transform: translateY(20%);    font-size: 18px;
-}    
-
-.heart {
-    position: relative;
-    left: 27%;
-}
-
-.popup {
-    border: 5px solid linear-gradienr(skyblue, white);
-    box-shadow: 0px 0px 10px #6495ED;
-    border-radius: 20px;
-    width: 300px;
-    height: 525px;
-    position: absolute;
-    margin-left: 5%;
-    margin-top: 5%;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
-    background: linear-gradient(skyblue, white);
-    z-index: 100;
-}
-.btn {
-    padding: 15px 65px;
-    background: black;
-    color: white;
-    border: 0;
-    border-radius: 50px;
-    outline: none;
-    font-family: "Bricolage Grotesque";
-    font-size: 20px;
-    font-weight: 700;
-    margin-bottom: 20px;
-}
-.btn1 {
-    padding: 15px 65px;
-    background: black;
-    color: white;
-    border: 0;
-    border-radius: 50px;
-    outline: none;
-    font-family: "Bricolage Grotesque";
-    font-size: 20px;
-    font-weight: 700;
-    margin-bottom: 70px;
-}
-.onlyimg {
-    margin-top: 20px;
-    border-radius: 100%;
-    box-shadow: 0px 0px 5px black;
-}    
-.musictext {
-    color: white;
-    font-family: "Bricolage Grotesque";
-    font-weight: 700;
-    text-shadow: 0px 0px 2px grey;
-    }
+    transform: translateY(20%);
